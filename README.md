@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Yi Jing
 - 👀 I’m interested in Web3
 - 🌱 I’m currently learning cybersecurity
-- 💞️ I’m looking to collaborate on ...
+<!---- 💞️ I’m looking to collaborate on ... ---!>
 <!--- 📫 How to reach me ... ---!>
 
 <!---
